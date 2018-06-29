@@ -49,7 +49,7 @@ let config = merge(baseWebpackConfig,{
         rules:[
             {
                 test:/\.(js|jsx)$/,
-                use: ['babel-loader'],
+                use: ['babel-loader','cache-loader'],
                 
                 include:[
                     path.resolve(__dirname,'../../app'),

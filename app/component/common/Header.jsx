@@ -9,8 +9,9 @@ const Header = ()=>
         <i className="logo"/>
     </div>
     <div className="nav">
-        <a href="index.html">headerpager</a>
-        <a href="shop.html">shop</a>
+        <a href="/index.html">headerpager</a>
+        <a href="/shop.html">shop</a>
+        <a href="/demo.html">demo</a>
     </div>
 </div>
 

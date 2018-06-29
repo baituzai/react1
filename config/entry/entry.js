@@ -1,0 +1,24 @@
+module.exports=[
+    {
+        name:"index",
+        path:"index/Index.jsx",
+        title:"首页",
+        keywords:"首页_网站",
+        description:"首页首页首页首页首页首页"
+    },
+    {
+        name:"shop",
+        path:"shop/Index.jsx",
+        title:"商城",
+        keywords:"商城_网站",
+        description:"商城商城商城商城商城商城"
+    },
+    {
+        name:"demo",
+        path:"demo/Index.jsx",
+        title:"demo",
+        keywords:"demo_网站",
+        description:"demodemodemodemodemodemo"
+    },
+
+]
