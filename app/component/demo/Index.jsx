@@ -11,7 +11,7 @@ class Index extends React.Component{
                 // <Header/> 
 
                 
-                <div className="index">demodemodemodemo</div>    
+                <div className="index">demodemodemo</div>    
               
                 //  <Footer/> 
                 
